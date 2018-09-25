@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Century Tower</name>
+      <Point>
+            <coordinates> -122.0857412771483,37.42227033155257,17
+            </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sao Paulo</name>
+      <Point>
+            <coordinates> -46.8754829,-23.6821604,10
+            </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paris</name>
+      <Point>
+            <coordinates> 2.2770206,48.8588377,12
+            </coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+      <name>Toronto</name>
+      <Point>
+            <coordinates> -79.4609319,43.6567919,11
+            </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paris</name>
+      <Point>
+            <coordinates> 2.2770206,48.8588377,12
+            </coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+      <name>Sao Paulo</name>
+      <Point>
+            <coordinates> -46.8754829,-23.6821604,10
+            </coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+      <name>Paris</name>
+      <Point>
+            <coordinates> 2.2770206,48.8588377,12
+            </coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+      <name>Century Tower</name>
+      <Point>
+            <coordinates> -122.0857412771483,37.42227033155257,17
+            </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
